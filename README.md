@@ -6,6 +6,8 @@ __ TILs so far
 
 ## ML
 
+[FastScript](https://github.com/shgidi/til/blob/master/fastscript.md)
+
 ## Python
 
 ## vscode
